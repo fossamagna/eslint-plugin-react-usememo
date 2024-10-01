@@ -1,6 +1,6 @@
 {
   "name": "@fossamagna/eslint-plugin-react-usememo",
-  "version": "2.4.1",
+  "version": "2.5.0-beta.0",
   "description": "",
   "main": "dist/index.js",
   "author": "Stefano J. Attardi <github@attardi.org> & Arthur Geron <github@arthurgeron.org",
